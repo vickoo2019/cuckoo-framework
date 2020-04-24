@@ -5,5 +5,4 @@
 
     <bean id="pagehelper" class="com.cuckoo.mybatis.pagehelper.PageHelper"/>
 
-
 </beans>
