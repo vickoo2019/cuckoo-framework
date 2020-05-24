@@ -5,4 +5,5 @@ include 'cuckoo-pagehelper'
 include 'cuckoo-app'
 include 'cuckoo-common'
 include 'cuckoo-facade'
+include 'cuckoo-generator'
 
