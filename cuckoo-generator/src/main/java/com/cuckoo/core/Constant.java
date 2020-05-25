@@ -24,13 +24,13 @@ public interface Constant {
 
 
     //各模板文件的路径(千万不要动)
-//    String entityFile = "resources\\\\ftl\\\\entity.ftl";
-//    String daoFile = "resources\\\\ftl\\\\dao.ftl";
-//    String mapperFile = "resources\\\\ftl\\\\mapper.ftl";
-//    String serviceFile = "resources\\\\ftl\\\\service.ftl";
-//    String serviceImplFile = "resources\\\\ftl\\\\serviceImpl.ftl";
-//    String controllerFile = "resources\\\\ftl\\\\controller.ftl";
-//    String pageBeanFile = "resources\\\\ftl\\\\pageBean.ftl";
-//    String pageParamFile = "resources\\\\ftl\\\\pageParam.ftl";
-//    String constFile = "resources\\\\ftl\\\\const.ftl";
+    String entityFile = "resources\\\\ftl\\\\entity.ftl";
+    String daoFile = "resources\\\\ftl\\\\dao.ftl";
+    String mapperFile = "resources\\\\ftl\\\\mapper.ftl";
+    String serviceFile = "resources\\\\ftl\\\\service.ftl";
+    String serviceImplFile = "resources\\\\ftl\\\\serviceImpl.ftl";
+    String controllerFile = "resources\\\\ftl\\\\controller.ftl";
+    String pageBeanFile = "resources\\\\ftl\\\\pageBean.ftl";
+    String pageParamFile = "resources\\\\ftl\\\\pageParam.ftl";
+    String constFile = "resources\\\\ftl\\\\const.ftl";
 }
