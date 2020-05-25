@@ -18,9 +18,9 @@ public interface Constant {
     String utilsStr ="utils";
     String controllerStr ="controller";
     String serviceStr="service";
-//    String entityStr="bean";
-//    String implStr="impl";
-//    String daoStr="dao";
+    String entityStr="bean";
+    String implStr="impl";
+    String daoStr="dao";
 
 
     //各模板文件的路径(千万不要动)
